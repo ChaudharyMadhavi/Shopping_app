@@ -4,6 +4,8 @@ I use flutter widgets to do front-end and back-end. In this material app : Gestu
 
 ## Features
 
-View product details including images, descriptions, and prices \n
-Add products to a shopping cart \n
+View product details including images, descriptions, and prices 
+
+Add products to a shopping cart 
+
 Browse products by category
